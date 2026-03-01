@@ -1,7 +1,5 @@
-W1 Assignment
-Jay Jorgensen
+PART 1:
 
-Part 1:
 HTTP/1.1 200 OK
 Connection: close
 Content-Type: application/json; charset=utf-8
@@ -27,17 +25,18 @@ Transfer-Encoding: chunked
   }
 ]
 
+PART 2:
 Sales Summary
 ----------------------------
  Total Sales: $2,012.20
 
  Details:
-  sales.json: $88.88
-  sales.json: $88.88
-  salestotals.json: $0.00
-  sales.json: $99.00
-  salestotals.json: $0.00
-  sales.json: $1,234.22
-  salestotals.json: $0.00
-  sales.json: $501.22
-  salestotals.json: $0.00
+  mslearn-dotnet-files/stores/sales.json: $88.88
+  mslearn-dotnet-files/stores/204/sales.json: $88.88
+  mslearn-dotnet-files/stores/204/salestotals.json: $0.00
+  mslearn-dotnet-files/stores/203/sales.json: $99.00
+  mslearn-dotnet-files/stores/203/salestotals.json: $0.00
+  mslearn-dotnet-files/stores/202/sales.json: $1,234.22
+  mslearn-dotnet-files/stores/202/salestotals.json: $0.00
+  mslearn-dotnet-files/stores/201/sales.json: $501.22
+  mslearn-dotnet-files/stores/201/salestotals.json: $0.00
